@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+## Source
+Vue2 conversion Based on Tutorial at [Scotch.io](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-part-ii)
+
 ## Build Setup
 
 ``` bash
